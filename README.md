@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/devlogssafee" target="blank"><img src="https://img.shields.io/twitter/follow/devlogssafee?logo=twitter&style=for-the-badge" alt="devlogssafee" /></a> </p>
 
-- 🔭 I’m currently working on [my website](https://gitlab.com/safeeSamir/personal-website)
+- 🔭 I’m currently working on [my website](https://safeeullah.com)
 
 - 🌱 I’m currently learning **Deep Neural Networks and Quantum Computing**
 
-- 👨‍💻 My portfolio is a work in progress right now [safeeullah.netlify.app](safeeullah.netlify.app)
+- 👨‍💻 My portfolio is a work in progress right now [safeeullah.com]([safeeullah.netlify.app](https://safeeullah.com))
 
-- 📝 I'm starting a blog at [safeeullah.netlify.app/blog](safeeullah.netlify.app/blog)
+- 📝 I'm starting a blog soon.
 
 - 💬 Ask me about **react, machine learning, quantum computing**
 
