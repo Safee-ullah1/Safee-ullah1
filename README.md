@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Deep Neural Networks and Quantum Computing**
 
-- 👨‍💻 My portfolio is a work in progress right now [safeeullah.com](https://safeeullah.com)
+- 👨‍💻 My portfolio is a work in progress right now -> [safeeullah.com](https://safeeullah.com)
 
 - 📝 I'm starting a blog soon.
 
