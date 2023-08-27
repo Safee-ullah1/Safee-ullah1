@@ -31,13 +31,25 @@
 
 <h3 align="left">Programming Languages:</h3>
 <p align="left">
+  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://icon.icepanel.io/Technology/png-shadow-512/Rust.png" alt="rust" width="40" height="40"/> 
+  </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
   <a href="https://www.javascript.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
-  <!-- Add more languages here -->
+  </a> 
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+  </a> 
+  <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
+  </a>
 </p>
 
 <h3 align="left">Web Development:</h3>
@@ -48,7 +60,9 @@
   <a href="https://angular.io/" target="_blank" rel="noreferrer">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
   </a>
-  <!-- Add more web development technologies here -->
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" alt="tailwindcss" width="40" height="40"/>
+  </a>
 </p>
 
 <h3 align="left">Mobile Development:</h3>
@@ -59,18 +73,19 @@
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
     <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
   </a>
-  <!-- Add more mobile development technologies here -->
 </p>
 
 <h3 align="left">Backend Development:</h3>
 <p align="left">
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+    <img src="https://img.icons8.com/nolan/64/express-js.png" alt="express" width="40" height="40"/>
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
   </a>
-  <!-- Add more backend development technologies here -->
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://icon.icepanel.io/Technology/png-shadow-512/Next.js.png" alt="next.js" width="40" height="40"/>
+  </a>
 </p>
 
 <h3 align="left">Databases:</h3>
@@ -78,25 +93,28 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
-  <!-- Add more database technologies here -->
 </p>
 
 <h3 align="left">Frameworks:</h3>
 <p align="left">
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
-  </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
   </a>
-  <!-- Add more framework technologies here -->
 </p>
 
-<h3 align="left">Machine Learning:</h3>
+<h3 align="left">Libraries:</h3>
 <p align="left">
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://icon.icepanel.io/Technology/svg/NumPy.svg" alt="numpy" width="40" height="40"/>
+  </a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   </a>
-  <!-- Add more machine learning technologies here -->
+  <a href="https://threejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://icon.icepanel.io/Technology/png-shadow-512/Three.js.png" alt="three.js" width="40" height="40"/>
+  </a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  </a>
 </p>
 
