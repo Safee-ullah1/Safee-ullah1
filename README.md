@@ -113,8 +113,8 @@
   <a href="https://threejs.org/" target="_blank" rel="noreferrer">
     <img src="https://icon.icepanel.io/Technology/png-shadow-512/Three.js.png" alt="three.js" width="40" height="40"/>
   </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  <a href="https://qiskit.org/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/30696987" alt="qiskit" width="40" height="40"/>
   </a>
 </p>
 
