@@ -15,10 +15,7 @@
 - Sharing notes, builds, and the occasional rabbit hole.
 
 ### Stack (most days)
-TypeScript • React • Next.js • tRPC • Tailwind CSS • Node.js • PostgreSQL • Drizzle ORM • Convex
-
-### Also use
-Bun • Cloudflare Workers • Docker • PostHog • OpenTelemetry
+TypeScript • React • Next.js • tRPC • Tailwind CSS • Node.js • PostgreSQL • Drizzle ORM • Convex • Expo
 
 ---
 
