@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Muhammad Safee Ullah (Safee) 👋</h1>
+<h1 align="center">Hi, I'm Muhammad Safee Ullah (Safee) </h1>
 
 <p align="center">
   <a href="https://x.com/safeedev">X</a> •
